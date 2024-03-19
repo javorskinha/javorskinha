@@ -35,5 +35,5 @@
 
 ##
 
-![snake animation](.github/workflows/main.yml)
+![snake animation](https://github.com/javorskinha/javorskinha/blob/output/github-contribution-grid-snake2.svg)
 
