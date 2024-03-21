@@ -1,7 +1,6 @@
-## Oiii, eu sou a Andrieli Javorski!
+<img src="https://github.com/javorskinha/javorskinha/assets/146042756/8b15bfef-cb9a-46ce-8118-e3ff9fca0926"/>
 
-<div>
-  <ul>
+<ul>
     <li>👩🏻‍🎓 Cursando ADS</li>
     <li>👩🏻‍💻 Foco em Front-end</li>
     <li>📚 Estudando React</li>
@@ -33,4 +32,4 @@
   <a href="https://www.linkedin.com/in/andrieli-javorski-a69592277/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-##
+<img src="https://github.com/javorskinha/javorskinha/assets/146042756/a3a2d8f3-15c0-42ad-8e79-272b1f03f8df"/>
