@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/javorskinha"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javorskinha&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javorskinha&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javorskinha&show_icons=true&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javorskinha&layout=compact&theme=vue-dark"/>
 </div>
 
 ##
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-    <img src="https://ssr-contributions-svg.vercel.app/_/javorskinha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=3&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=red"/>
+    <img src="https://ssr-contributions-svg.vercel.app/_/javorskinha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=3&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green"/>
 </div>
 
 ##
@@ -37,5 +37,3 @@
   <a href="https://www.instagram.com/andrielijavorski/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/andrieli-javorski-a69592277/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
-
-<img src="https://github.com/javorskinha/javorskinha/assets/146042756/5d02bd51-a68b-459d-9ba8-75663e19419a"/>
