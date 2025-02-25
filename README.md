@@ -23,6 +23,7 @@
   <img align="center" height="40" width="50" alt="andri javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" height="40" width="50" alt="andri nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
   <img align="center" height="40" width="50" alt="andri react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="center" height="40" width="50" alt="andri react" src="https://github.com/user-attachments/assets/4631ae71-c547-4534-8c27-127d5eea1311"/>
 </div>
 
 <div align="center">
