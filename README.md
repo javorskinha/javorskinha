@@ -3,7 +3,7 @@
 <ul>
     <li>👩🏻‍🎓 Cursando ADS</li>
     <li>👩🏻‍💻 Foco em Front-end</li>
-    <li>📚 Estudando React</li>
+    <li>📚 Estudando Vue.js</li>
   </ul>
 </div>
 
