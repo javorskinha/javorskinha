@@ -1,4 +1,4 @@
-<img src="https://github.com/javorskinha/javorskinha/assets/146042756/b1b69208-2b7b-40aa-a437-28930f860109"/>
+<img src="https://github.com/user-attachments/assets/9ae926b9-1a43-40d8-9c6e-0b15048507d7"/>
 
 <ul>
     <li>👩🏻‍🎓 Cursando ADS</li>
