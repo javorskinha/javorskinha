@@ -10,9 +10,10 @@
 ##
 
 <div>
-  <a href="https://github.com/javorskinha"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javorskinha&show_icons=true&theme=vue-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javorskinha&layout=compact&theme=vue-dark"/>
+  <a href="https://github.com/javorskinha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javorskinha&show_icons=true&theme=vue-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javorskinha&layout=compact&theme=vue-dark"/>
+  </a>
 </div>
 
 ##
