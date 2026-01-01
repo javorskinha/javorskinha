@@ -8,13 +8,18 @@
     </p>
 </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javorskinha&theme=aura_dark"/>
-
 <div>
+    <img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javorskinha&theme=aura_dark"/>
+    <img width="660" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javorskinha&theme=aura_dark"/>
+</div>
+
+<div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/javorskinha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=3&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green"/>
 </div>
 
-<div>
+##
+
+<div align="center">
   <a href="mailto:andrielijavorski@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
