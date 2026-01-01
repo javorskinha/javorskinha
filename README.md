@@ -9,8 +9,8 @@
 </div>
 
 <div>
-    <img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javorskinha&theme=aura_dark"/>
-    <img width="660" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javorskinha&theme=aura_dark"/>
+    <img width="220" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javorskinha&theme=aura_dark"/>
+    <img width="560" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javorskinha&theme=aura_dark"/>
 </div>
 
 <div align="center">
