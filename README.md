@@ -9,7 +9,7 @@
 </div>
 
 <div>
-    <img width="220" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javorskinha&theme=aura_dark"/>
+    <img width="270" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javorskinha&theme=aura_dark"/>
     <img width="560" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javorskinha&theme=aura_dark"/>
 </div>
 
